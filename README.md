@@ -20,7 +20,7 @@ It's a static site: plain HTML, CSS and JavaScript with no build step.
 │   │   ├── gallery/            10 product listing images (+ thumbs/)
 │   │   ├── lifestyle/          3 lifestyle images
 │   │   └── features/           8 feature set panels (1200 px and 2400 px)
-│   └── models/                 3D model (.glb): opera-night-slipper.glb
+│   └── models/                 3D model (.glb): opera-night-slipper-v2.glb
 ├── .nojekyll                   Lets GitHub Pages serve every file as-is
 └── .gitignore
 ```
